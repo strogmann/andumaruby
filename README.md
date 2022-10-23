@@ -1,2 +1,2 @@
 # andumaruby
-Taking Ruby for a spin
+Tomando prueba de ruby
