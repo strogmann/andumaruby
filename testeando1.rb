@@ -17,7 +17,8 @@ puts "| ---- |"
 puts "|  <>  |"
 puts "| ---- |"
 print "!______!"
+puts ""
 
 if isneverita
-    print "Manda huevos tio, vete de vuelta a puerto rico"
+    puts "Manda huevos tio, vete de vuelta a puerto rico"
 end
